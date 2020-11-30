@@ -3,4 +3,4 @@ channels:
   - conda-forge
 dependencies:
   - numpy
-  - from PIL import Image
+  - PIL
